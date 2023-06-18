@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# os specific QtCreator project .pro file for texta framework coral static library libcoral
+# os specific QtCreator project .pro file for framework coral static library libcoral
 ########################################################################
 # Depends: nadir;rostra;medusa
 #

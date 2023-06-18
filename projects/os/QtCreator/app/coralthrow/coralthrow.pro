@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# os specific QtCreator project .pro file for texta framework coral executable coralthrow
+# os specific QtCreator project .pro file for framework coral executable coralthrow
 ########################################################################
 # Depends: nadir;rostra;medusa
 #

@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# os specific QtCreator project file for texta framework coral
+# os specific QtCreator project file for framework coral
 ########################################################################
 # Depends: nadir;rostra;medusa
 

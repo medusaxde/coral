@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# generic QtCreator project file for texta framework coral static library libcoral
+# generic QtCreator project file for framework coral static library libcoral
 ########################################################################
 
 ########################################################################
